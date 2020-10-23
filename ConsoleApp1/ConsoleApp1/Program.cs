@@ -11,6 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.Write("heklo");
+            Console.Write("xin chao");
+
             Console.WriteLine();
 
         }
